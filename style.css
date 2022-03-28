@@ -9,6 +9,8 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position:sticky;
+    top:0;
 }
 .nav-bar-logo{
     width: 150px;
